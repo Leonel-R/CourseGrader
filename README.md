@@ -1,4 +1,4 @@
-# Course-Grader
+# Course Grader
 Program that parses csv files and returns statistics on students performance. Grade scale goes from 1(lowest) - 5.
 
 ### Instructions
